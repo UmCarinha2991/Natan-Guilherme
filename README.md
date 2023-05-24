@@ -1,1 +1,3 @@
-# Natan-Guilherme
+-#:smile: Natan-Guilherme
+-Cursando **Pensamento Computacional
+-:wink: Meu e-mail de contato é [email](natan.basalia@escola.pr.gov.br)
